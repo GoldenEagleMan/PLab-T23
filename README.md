@@ -1,2 +1,10 @@
 # PLab-T23
-Lets go!
+
+To do:
+
+- Contributions from everyone on the group
+- Servo adjustments
+- Proximity sensor
+- Smart movement
+- Robot sensor
+// More to come
